@@ -1,4 +1,4 @@
-\# Customer Operations \& Risk Analytics
+Customer Operations & Risk Analytics
 
 
 
@@ -6,7 +6,7 @@ A data analytics project using \*\*Python, SQL, Excel, and Power BI\*\* to analy
 
 
 
-\## Project Overview
+ Project Overview
 
 
 
@@ -18,25 +18,25 @@ The analysis focuses on:
 
 
 
-\- Transaction volume and value
+- Transaction volume and value
 
-\- Customer transaction patterns
+- Customer transaction patterns
 
-\- Category and city performance
+- Category and city performance
 
-\- Channel performance
+- Channel performance
 
-\- Transaction status
+- Transaction status
 
-\- High-value transactions
+- High-value transactions
 
-\- Unusual transaction hours
+- Unusual transaction hours
 
-\- Risk and review indicators
+- Risk and review indicators
 
 
 
-\## Dashboard
+ Dashboard
 
 
 
@@ -44,61 +44,59 @@ The Power BI dashboard provides:
 
 
 
-\- Total Transactions
+- Total Transactions
 
-\- Total Transaction Value
+- Total Transaction Value
 
-\- Average Transaction Amount
+- Average Transaction Amount
 
-\- Transaction Value by Category
+- Transaction Value by Category
 
-\- Transaction Value by City
+- Transaction Value by City
 
-\- Transaction Value by Channel
+- Transaction Value by Channel
 
-\- Monthly Transaction Trends
+- Monthly Transaction Trends
 
-\- Transaction Status Analysis
+- Transaction Status Analysis
 
-\- Interactive City, Category, and Channel filters
-
-
-
-\[View Dashboard](dashboard/customer-operations-risk-dashboard.png)
+- Interactive City, Category, and Channel filters
 
 
 
-\## Key Results
 
 
 
-\- \*\*5,000\*\* transactions analyzed
-
-\- \*\*$695.62K\*\* total transaction value
-
-\- \*\*$139.12\*\* average transaction amount
+Key Results
 
 
 
-\## Tools \& Technologies
+5,000 transactions analyzed
+
+$695.62K total transaction value
+
+$139.12 average transaction amount
 
 
 
-\- \*\*Python\*\* — Data analysis and risk flagging
-
-\- \*\*SQL\*\* — Transaction analysis and aggregation
-
-\- \*\*Power BI\*\* — Interactive dashboard and visualization
-
-\- \*\*Excel\*\* — Data validation and preparation
+ Tools & Technologies
 
 
 
-\## Project Structure
+Python — Data analysis and risk flagging
+
+SQL — Transaction analysis and aggregation
+
+Power BI — Interactive dashboard and visualization
+
+Excel — Data validation and preparation
 
 
 
-```text
+ Project Structure
+
+
+
 
 customer-operations-risk/
 
